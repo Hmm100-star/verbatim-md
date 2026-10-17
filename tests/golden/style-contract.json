@@ -1,0 +1,9 @@
+{
+  "Heading1": {"type": "paragraph", "alias": "Pocket"},
+  "Heading2": {"type": "paragraph", "alias": "Hat"},
+  "Heading3": {"type": "paragraph", "alias": "Block"},
+  "Heading4": {"type": "paragraph", "alias": "Tag"},
+  "Style13ptBold": {"type": "character", "alias": "Cite"},
+  "StyleUnderline": {"type": "character", "alias": "Underline"},
+  "Emphasis": {"type": "character", "alias": "Emphasis"}
+}

@@ -1,0 +1,9 @@
+include LICENSE README.md AGENTS.md CONTRIBUTING.md CHANGELOG.md requirements-dev.lock uv.lock
+recursive-include docs *.md *.json
+recursive-include profiles *.yaml
+recursive-include templates *.md
+recursive-include skills *.md
+recursive-include examples *.md
+recursive-include tests *.py *.md *.json
+recursive-include .github/workflows *.yml
+recursive-include scripts *.py
